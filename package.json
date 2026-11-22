@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "formguard-js": "file:../formguard-js",
+    "formguard-js": "git+https://github.com/quickDhav/formguard-js.git",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
